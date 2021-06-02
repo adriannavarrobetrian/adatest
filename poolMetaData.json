@@ -1,6 +1,6 @@
 {
-"name": "txsec",
-"description": "txsec test pool",
-"ticker": "TXSEC",
+"name": "XTSEC Pool",
+"description": "Test pool for XSEC",
+"ticker": "XTSEC",
 "homepage": "https://ada.xsec.es"
 }
